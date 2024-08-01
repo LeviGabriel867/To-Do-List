@@ -8,6 +8,7 @@ O projeto To-Do List é uma aplicação web para gerenciamento de tarefas, desen
 - JavaScript: Linguagem de programação principal utilizada no desenvolvimento.
 - HTML/CSS: Estrutura e estilização da aplicação.
 - Axios: Biblioteca para realizar requisições HTTP ao servidor.
+  
 **Back-End:**
 
 - Node.js: Ambiente de execução JavaScript para construir a API do servidor.
