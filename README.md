@@ -15,6 +15,7 @@ O projeto To-Do List é uma aplicação web para gerenciamento de tarefas, desen
 - Express: Framework para criação de servidores e APIs em Node.js.
 - MongoDB: Banco de dados NoSQL para armazenamento das tarefas.
 - JWT (JSON Web Token): Para autenticação e autorização de usuários.
+  
 **Funcionalidades**
 - Autenticação de Usuário: Criação de contas e login de usuários com segurança baseada em JWT.
 - Gerenciamento de Tarefas: Adição, edição e exclusão de tarefas.
